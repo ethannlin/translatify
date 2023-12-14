@@ -1,0 +1,7 @@
+credentials.py
+google_key.json
+venv
+
+.cache
+__pycache__
+.DS_Store
